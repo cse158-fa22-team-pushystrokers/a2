@@ -5,3 +5,4 @@ sklearn
 xgboost
 numpy
 scikit-learn-intelex
+wordcloud
