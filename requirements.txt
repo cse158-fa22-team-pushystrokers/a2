@@ -1,8 +1,13 @@
 fsspec
 pandas
 swifter
-sklearn
+scikit-learn
 xgboost
 numpy
 scikit-learn-intelex
 wordcloud
+joblib
+spacy
+spacy-transformers
+tensorflow
+scikeras[tensorflow]
