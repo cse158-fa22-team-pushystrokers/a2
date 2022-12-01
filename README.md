@@ -1,4 +1,6 @@
 # CSE 158/258, Fall 2022: Assignment 2
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cse158-fa22-team-pushystrokers/a2.git/HEAD)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/cse158-fa22-team-pushystrokers/a2) 
 
 ```sh
 mamba install -c conda-forge cudatoolkit cudatoolkit-dev
